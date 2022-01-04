@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Thanks for stopping by. I'm Alivia, currently based in Seattle city. 👋 
 
 <!--
 **alivia-23/alivia-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
