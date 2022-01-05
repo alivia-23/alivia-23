@@ -6,6 +6,7 @@ I'm a passionate software developer with Master's in Information Systems. I grad
 I'm a curious problem solver, quick learner and a great team player who is looking for new opportunities to grow and utilize my skills in the tech world.
 ### 🤝 Connect with me:
 [![Linkedin: aliviaguin](https://img.shields.io/badge/-aliviaguin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alivia-guin/)](https://www.linkedin.com/in/alivia-guin/) &nbsp;
+<a href="mailto:guin.alivia@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"/></a>
 <!--[![GitHub Alivia Guin](https://img.shields.io/github/followers/aliviaguin?label=follow&style=social)](https://github.com/alivia-23)-->
 
 ### :briefcase: Technical Skills
