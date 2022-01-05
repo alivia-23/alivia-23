@@ -43,6 +43,8 @@ I'm a curious problem solver, quick learner and a great team player who is looki
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alivia-23&layout=compact)](https://github.com/alivia-23)
+
 
 <!--
 **alivia-23/alivia-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
