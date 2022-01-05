@@ -1,6 +1,10 @@
 ![Software Developer](https://github.com/alivia-23/alivia-23/blob/main/images/Seattle-Rainier%201200x600_0.png)
 ## Hi there,👋 
 ### Thanks for stopping by. I'm Alivia, currently based in Seattle city. :smiley: 
+### 🤝 Connect with me:
+[![Linkedin: aliviaguin](https://img.shields.io/badge/-aliviaguin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alivia-guin/)](https://www.linkedin.com/in/alivia-guin/) &nbsp;
+<!--[![GitHub Alivia Guin](https://img.shields.io/github/followers/aliviaguin?label=follow&style=social)](https://github.com/alivia-23)-->
+
 ### :briefcase: Technical Skills
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
