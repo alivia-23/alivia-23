@@ -3,7 +3,7 @@
 ### Thanks for stopping by. I'm Alivia, currently based in Seattle city. :smiley: 
 ### About me:
 I'm a passionate software developer with Master's in Information Systems. I graduated from Northeatern University in December 2021:mortar_board:
-I'm a curious problem solver, quick learner and a great team player who is looking for new opportunities to grow and utilize my skills in the tech world.
+I'm a curious problem solver, quick learner and a great team player and I am looking for new opportunities to grow and utilize my skills in the tech world.
 ### 🤝 Connect with me:
 [![Linkedin: aliviaguin](https://img.shields.io/badge/-aliviaguin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alivia-guin/)](https://www.linkedin.com/in/alivia-guin/) &nbsp;
 <a href="mailto:guin.alivia@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"/></a>
