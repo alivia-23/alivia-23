@@ -4,6 +4,8 @@
 ### About me:
 I'm a passionate software developer with Master's in Information Systems. I graduated from Northeatern University in December 2021:mortar_board:
 I'm a curious problem solver, quick learner and a great team player and I am looking for new opportunities to grow and utilize my skills in the tech world.
+<h3>Wanna take a peek on my personal portfolio website ? 👉 <a href="https://alivia-23.github.io/Alivia-portfolio/index.html">Click Here</a></h3>
+
 ### 🤝 Connect with me:
 [![Linkedin: aliviaguin](https://img.shields.io/badge/-aliviaguin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alivia-guin/)](https://www.linkedin.com/in/alivia-guin/) &nbsp;
 <a href="mailto:guin.alivia@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"/></a>
@@ -45,6 +47,13 @@ I'm a curious problem solver, quick learner and a great team player and I am loo
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alivia-23&exclude_repo=Customer_Review_Summarizer&layout=compact)](https://github.com/alivia-23)
+
+<b>Profile Views:-</b>
+<br>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{alivia-23}/count.svg)
+<br>
+ 
 
 
 <!--
