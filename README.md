@@ -6,6 +6,16 @@ I'm a passionate software developer with Master's in Information Systems. I grad
 I'm a curious problem solver, quick learner and a great team player and I am looking for new opportunities to grow and utilize my skills in the tech world.
 <h3>Wanna take a peek on my personal portfolio website ? 👉 <a href="https://alivia-23.github.io/Alivia-portfolio/index.html">Click Here</a></h3>
 
+<ul list-style-type="none">
+  <li>💻 Primary coding language: Java </li>
+  <li>🔭 I’m currently working on my portfolio.</li>
+  <li>🌱 I’m currently learning and working on Cloud Computing and Full Stack Development</li>
+  <li>✔️ 2023 Goals: To Enhance my Development skills
+  <li>⚡ Fun fact: I love to listen Music🎶
+  <li>😄 Pronouns: She/her</li>
+  </ul>
+  <br>
+
 ### 🤝 Connect with me:
 [![Linkedin: aliviaguin](https://img.shields.io/badge/-aliviaguin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alivia-guin/)](https://www.linkedin.com/in/alivia-guin/) &nbsp;
 <a href="mailto:guin.alivia@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"/></a>
