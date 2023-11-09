@@ -7,9 +7,9 @@ I'm a curious problem solver, quick learner and a great team player and I am loo
 <h3>Wanna take a peek on my personal portfolio website ? 👉 <a href="https://alivia-23.github.io/Alivia-portfolio/index.html">Click Here</a></h3>
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
-  <li>🔭 I’m currently working on my portfolio.</li>
+  <li>🔭 I’m currently working on my portfolio and enhancing my developmental skills by learning and practicing more coding problems</li>
   <li>🌱 I’m currently learning and working on Cloud Computing and Full Stack Development</li>
-  <li>✔️ 2023 Goals: To Enhance my Development skills
+  <li>✔️ 2023 Goals: To keep learning and enhance my Development skills
   <li>⚡ Fun fact: I love to listen Music🎶
   <li>😄 Pronouns: She/her</li>
   </ul>
