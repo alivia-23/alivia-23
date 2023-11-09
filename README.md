@@ -8,7 +8,7 @@ I'm a curious problem solver, quick learner and a great team player and I am loo
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
   <li>🔭 I’m currently working on my portfolio and enhancing my developmental skills by learning and practicing more coding problems</li>
-  <li>🌱 I’m currently learning and working on Cloud Computing and Full Stack Development</li>
+  <li>🌱 I’m also learning and working on Cloud Computing and Full Stack Development projects</li>
   <li>✔️ 2023 Goals: To keep learning and enhance my Development skills
   <li>⚡ Fun fact: I love to listen Music🎶
   <li>😄 Pronouns: She/her</li>
