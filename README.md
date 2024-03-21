@@ -2,7 +2,7 @@
 ## Hi there,👋 
 ### Thanks for stopping by. I'm Alivia, currently based in Seattle city. :smiley: 
 ### About me:
-I'm a passionate software developer with Master's in Information Systems. I graduated from Northeatern University in December 2021:mortar_board:
+I'm a passionate software developer with Master's in Information Systems. I graduated from Northeatern University in December 2021
 I'm a curious problem solver, quick learner and a great team player and I am looking for new opportunities to grow and utilize my skills in the tech world.
 <h3>Wanna take a peek on my personal portfolio website ? 👉 <a href="https://alivia-23.github.io/Alivia-portfolio/index.html">Click Here</a></h3>
 <ul list-style-type="none">
