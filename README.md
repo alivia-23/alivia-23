@@ -15,8 +15,8 @@ I'm a curious problem solver, quick learner and a great team player and I am loo
   <li>:writing_hand: Started writing technical blogs to document my learned tech skills.
   <ul> :notebook: Read out my latest blogs
      <li><a href="https://aliviaguin.hashnode.dev/lambda-functions-in-python">Interesting facts about Python Lambda Functions</a></li>
-  <ul>
   </ul>
+</ul>
 
 ### 🤝 Connect with me:
 [![Linkedin: aliviaguin](https://img.shields.io/badge/-aliviaguin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alivia-guin/)](https://www.linkedin.com/in/alivia-guin/) &nbsp;
