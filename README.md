@@ -9,7 +9,8 @@ I'm a curious problem solver, quick learner and a great team player and I am loo
   <li>💻 Primary coding language: Java </li>
   <li>🔭 I’m currently working on my portfolio and enhancing my developmental skills by learning and practicing more coding problems</li>
   <li>🌱 I’m also learning and working on Cloud Computing and Full Stack Development projects</li>
-  <li>✔️ 2023 Goals: To keep learning and enhance my Development skills
+  <li>✔️ 2024 Goals: To keep learning and enhance my Development skills
+  <li>:writing_hand: Started writing technical blogs to document my learned tech skills <a href="https://aliviaguin.hashnode.dev/lambda-functions-in-python">check out my blog on Python Lambda Functions</a>
   <li>⚡ Fun fact: I love to listen Music🎶
   <li>😄 Pronouns: She/her</li>
   </ul>
